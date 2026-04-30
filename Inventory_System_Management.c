@@ -1,7 +1,7 @@
 /**
  * INVENTORY MANAGEMENT SYSTEM
  * Author: Pushkkal Gupta
- * Description: Professional CRUD(Create,Read,Update,Delete) Inventory system
+ * Description:CRUD(Create,Read,Update,Delete) Inventory system
  * Features:
  *  - Add / View / Update / Delete items
  *  - Stock In & Stock Out
